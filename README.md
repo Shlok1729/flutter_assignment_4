@@ -37,7 +37,7 @@ Each emoji triggers a voice message, a cool animation, and a mood-themed backgro
 
 ## 📸 Screenshot
 
-> Add this after running the app on an emulator or device.
+
 ## 🎥 Demo Video
 
 ## 🎥 Demo Video
