@@ -48,8 +48,7 @@ Each emoji triggers a voice message, a cool animation, and a mood-themed backgro
 <img width="1919" height="998" alt="Image" src="https://github.com/user-attachments/assets/a59f2ee8-93f3-4afe-bdba-f316e5af38b8" />
 <img width="1919" height="965" alt="Image" src="https://github.com/user-attachments/assets/ea2de68e-b12d-444e-98b0-7b476fe2d873" />
 
-> 📁 Place your screenshot in:  
-> `project_root/screenshots/mood_matcher_ui.png`
+
 
 ---
 
